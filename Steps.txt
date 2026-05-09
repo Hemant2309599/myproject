@@ -1,0 +1,20 @@
+Commands Used:
+
+git init
+git checkout -b feature-update
+echo "This is a new feature added" >> file.txt
+git add .
+git commit -m "Added new feature"
+git push origin feature-update
+
+Pull Request Steps:
+1. Open GitHub repository
+2. Click "Compare & pull request"
+3. Add title and description
+4. Click "Create Pull Request"
+
+Code Review:
+1. Go to "Files changed"
+2. Add comment
+3. Approve changes
+4. Merge Pull Request
